@@ -1,4 +1,4 @@
-# HitchHiker
+# Hitchhiker
 Group project working with containers to build our website. 
 TP-D1
 Team Members:
