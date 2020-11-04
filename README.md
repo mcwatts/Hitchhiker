@@ -40,8 +40,13 @@ HTTP method: HTTP POST
 The following directions are to run only the dockerfile. You will need to be in Hitchhiker directory.
 
 1. Build the dockerfile
+
 	dockerfile build -t dockerfile .
+	
 2. View all images/ensure you build your docker correctly.
+
 	docker images	
+	
 3. Run the dockerfile
+
 	docker run dockerfile
