@@ -1,10 +1,10 @@
-## Hitchhiker
-
+# Hitchhiker
+Term Project Deliverable 2
 
 ## Team Members:
-# Arysa Flores - eid: arysa
-# Madeline Watts - eid: mw29
-# Seychelle Lusk - eid: slusk 
+### Arysa Flores - eid: arysa
+### Madeline Watts - eid: mw29
+### Seychelle Lusk - eid: slusk 
 
 	
 ## Description:
@@ -12,11 +12,20 @@ Although carpooling is a feature on transportation apps like Uber and Lyft, the 
 	
 Our solution to this problem is to create a website that allows students to organize safe and efficient carpool transportation. This website would resemble a social media platform with users posting their destinations and offering other users carpool options based off of the posted destinations. People will be able to share payment information to split the costs of gas and parking. If there is a large event, drivers can attach their available car to a searchable event. There are several benefits to this solution, including the increased safety precaution, cost efficiency, and reduced environmental impact. Safety in this situation is vital, especially for college aged women, as accepting a ride from a complete stranger can be uncomfortable. We believe that the risk and discomfort of carpooling will ease if the drivers and riders are required to be verified college students. Our target demographic (college students), are known for having little disposable income, which makes it difficult for them to use services like Uber or Lyft that charge a hefty amount. Our platform will minimize the cost of ride sharing because it is likely that the most expenses will solely be for gas. If we can encourage students to utilize this platform then there will be a decreased environmental impact associated with the transportation of college students. This is also a new and innovative way for students to socialize amongst themselves.
 
-# Usage - 
-Please read the following for directions on how to build and run the project: 
-	1
+## Usage
 
-# Docker 
+Please read the following for directions on how to build and run the project: 
+### Install:
+
+Software required: Postman
+
+## Run:
+
+Run the image and bind the port to present directory.
+
+	docker ru
+
+## Docker 
 Please read the following for directions on how to build the Docker image and run it as a container: 
 
 When built, the Dockerfile builds a Docker image with our compiled project. Running the Docker image should start the webserver. 
