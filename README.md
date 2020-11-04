@@ -29,7 +29,7 @@ Use the following bash script in order to run the Docker on a web server:
 	./runApp.sh
 	
 Route to use:
-	f
+	Prints in console
 
 HTTP method: HTTP POST
 
