@@ -29,10 +29,7 @@ Use the following bash script in order to run the Docker on a web server:
 	./runApp.sh
 This will run the Docker image as a conainer in one line.
 	
-Route to use:
-	Prints in console
-
-HTTP method: HTTP POST
+Route/HTTP method: HTTP POST
 
 
 
