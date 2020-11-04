@@ -31,6 +31,4 @@ Use the following bash script in order to run the Docker on a web server:
 ## Docker 
 Please read the following for directions on how to build the Docker image and run it as a container: 
 
-When built, the Dockerfile builds a Docker image with our compiled project. Running the Docker image should start the webserver. 
-
-
+	1.
