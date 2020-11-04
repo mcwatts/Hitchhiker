@@ -40,7 +40,7 @@ Build the dockerfile.
 
 	dockerfile build -t dockerfile .
 	
-View all images/ensure you build your docker correctly.
+View all images/ensure you built your docker correctly.
 
 	docker images	
 	
