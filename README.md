@@ -40,5 +40,5 @@ HTTP method:
 To build and run our Docker image as a container
 
 	docker build -t dockerfile .
-
-	docker images
+	
+	docker run dockerfile
