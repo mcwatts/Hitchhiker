@@ -27,6 +27,7 @@ Software required: Postman
 Use the following bash script in order to run the Docker on a web server:
 
 	./runApp.sh
+This will run the Docker image as a conainer in one line.
 	
 Route to use:
 	Prints in console
@@ -36,8 +37,11 @@ HTTP method: HTTP POST
 
 
 ## Docker 
-To build and run our Docker image as a container, you won't need to follow the following directions because we have it set up to run in a single line, but you can do this to run only the dockerfile. Make sure you are in the Hitchhiker directory. 
+The following directions are to run only the dockerfile. You will need to be in Hitchhiker directory.
 
+1. Build the dockerfile
 	dockerfile build -t dockerfile .
+2. View all images/ensure you build your docker correctly.
 	docker images	
+3. Run the dockerfile
 	docker run dockerfile
