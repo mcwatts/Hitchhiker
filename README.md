@@ -32,7 +32,7 @@ Use the following bash script in order to run the Docker on a web server:
 Route to use:
 	f
 
-HTTP method:
+HTTP method: HTTP POST
 
 
 
