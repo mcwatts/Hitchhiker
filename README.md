@@ -40,10 +40,6 @@ Build the dockerfile.
 
 	dockerfile build -t dockerfile .
 	
-View all images/ensure you built your docker correctly.
-
-	docker images	
-	
 Run the dockerfile
 
 	docker run dockerfile
