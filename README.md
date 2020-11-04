@@ -31,4 +31,4 @@ Use the following bash script in order to run the Docker on a web server:
 ## Docker 
 Please read the following for directions on how to build the Docker image and run it as a container: 
 
-	1.
+1.
