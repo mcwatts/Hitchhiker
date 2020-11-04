@@ -40,4 +40,6 @@ To build and run our Docker image as a container
 
 	docker build -t dockerfile .
 	
+--
+	
 	docker run dockerfile
