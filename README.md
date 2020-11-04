@@ -36,10 +36,8 @@ HTTP method: HTTP POST
 
 
 ## Docker 
-To build and run our Docker image as a container
+To build and run our Docker image as a container, you won't need to follow the following directions because we have it set up to run in a single line, but you can do this to run only the dockerfile. Make sure you are in the Hitchhiker directory. 
 
-	docker build -t dockerfile .
-	
---
-	
+	dockerfile build -t dockerfile .
+	docker images	
 	docker run dockerfile
