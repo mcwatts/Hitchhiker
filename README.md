@@ -1,4 +1,4 @@
-# Hitchhiker: ##Term Project Deliverable 2
+# Hitchhiker: Term Project Deliverable 2
 
 
 ## Team Members:
