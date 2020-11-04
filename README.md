@@ -28,10 +28,17 @@ Software required: Postman
 Use the following bash script in order to run the Docker on a web server:
 
 	./runApp.sh
+	
+Route to use:
+	f
+
+HTTP method:
 
 
 
 ## Docker 
-Please read the following for directions on how to build the Docker image and run it as a container: 
+To build and run our Docker image as a container
 
-1.
+	docker build -t dockerfile .
+
+	docker images
