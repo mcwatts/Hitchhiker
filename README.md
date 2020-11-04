@@ -34,7 +34,8 @@ Route/HTTP method: HTTP POST
 
 
 ## Docker 
-The following directions are to run only the dockerfile. You will need to be in Hitchhiker directory.
+The following directions are to run only the dockerfile. It is not neccesary if you have run the bash script.
+You will need to be in Hitchhiker directory.
 
 Build the dockerfile.
 
